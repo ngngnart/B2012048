@@ -1,1 +1,1 @@
-# hi i am nguyen ngoc tran.
+# hi, i am nguyen ngoc tran.
